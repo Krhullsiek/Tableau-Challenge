@@ -1,0 +1,22 @@
+Analysis:
+
+1. Most popular age group in summer of 2020 for men and women is 20's and 30's, however for the unkown gender is 70's. 
+Average trip duration is highest for age group 50's, and for unkown gender followed by female. Highest number of subscribers are males, 
+and people aged 30.
+
+2. There are more Subscriber's than there are Customer's, however the customer average trip duartion is higher than subscribers. 
+The most popular customer age group is 50's, and gender is unkown followed by male.
+
+3. Avergage trip duration tends to be longer for customers, age group 60's, for unkown and female genders, 
+and varies in weekday popularity based on gender and age group. Age group average trip duration also varies based on gender.
+
+4. Peak hours in 2020 tends to be highest at the same timeframe for all genders and age groups. Popular weekdays in 2021 tend to be Wednesday,
+Saturday and Sunday. 2021 data does not include gender and age groups.
+
+5. Most and least popular stations chage within 1 year, and specific station are favored more by varying mamber statuses, 
+genders and age groups.
+
+6. In 2021 South Waterfront Walkway tends to be the most popular starting station day to day. In 2020 we have data to show popular start 
+and end stations based on age groups and weekdays
+
+-I had more graphs in my story involving 2021, however when I went to publish to public tableau some of my data was removed. I didn't have time to repair this.
